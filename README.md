@@ -18,15 +18,17 @@ J'apprends Ruby on Rails, cette application m'aide à comprendre le fonctionneme
         un last_name, qui est un string
         un specialty, qui est un string  -----> cet attribut deviendra un model à part entière
         un zip_code, qui est un string ------> on créera le model City
+
     un model Patient, qui a comme attributs :
         un first_name, qui est un string
         un last_name, qui est un string
+
     un model Appointment, qui a comme attributs :
         un date, qui est un datetime
+
     un model City, qui a comme attributs :
-	un name, qui est un string
-	un zipcode, qui est un string
-	
+        un name, qui est un string	
+        un zipcode, qui est un string	
 
 
 
