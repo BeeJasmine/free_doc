@@ -11,7 +11,7 @@ FreeDoc arrive sur le marché ! bon ok : ce n'est pas encore au point !
 
 Le fonctionnement de cette app repose sur des bases de données relationnelles. 
 
-J'apprends Ruby on Rails, cette application m'aide à comprendre le fonctionnement des models avec 3 models pour commencer : 
+J'apprends Ruby on Rails, cette application m'aide à comprendre le fonctionnement des models avec 4 models pour commencer : 
 
     un model Doctor, qui a comme attributs :
         un first_name, qui est un string
